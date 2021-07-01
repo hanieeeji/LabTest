@@ -1,0 +1,28 @@
+body{
+	background-color:#5DADE2 ;
+}
+
+table tr{
+	background-color:#99A3A4 ;
+}
+
+nav {
+	padding-top: 1px;
+	padding-bottom: 1px;
+	background-color:#F4F6F7 ;
+}
+
+nav h1{
+
+	margin-top: 3px;
+	margin-bottom: 3px;
+	font-family: 'Lobster', cursive;
+	font-size: 40px;
+	letter-spacing: 3px;
+}
+ .navbar h1:hover {
+ 	color:#5DADE2 ;
+ 	background-color: yellow;
+ }
+
+

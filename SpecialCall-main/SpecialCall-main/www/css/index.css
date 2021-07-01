@@ -1,0 +1,31 @@
+h1{
+    color: blue;
+}
+
+.navbar{
+    background-color: #5DADE2;
+    padding-top: 3px;
+}
+
+.navbar h2{
+    padding-bottom: 10px;
+    color: #935116;
+}
+
+.contact button{
+    background-color:#2980B9 ;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
+
+.contact button:hover {
+    background-color: white;
+    color: black;
+}
+
+body{
+    background-color:#AED6F1 ;
+}
